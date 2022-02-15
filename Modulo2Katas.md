@@ -71,7 +71,7 @@ deactivate
 Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
 Aqui una muestra de como se hace la comprobacion de la anterior explicacion
-![kayana2](katanas_respuestas\katana2.png)
+![kayana2](https://github.com/MarcosYGS/katas_entrega/blob/main/katana2.png)
 
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
